@@ -1,10 +1,10 @@
 {
-  "Archer-UI": 1.10,
-  "Lancer-UI": 1.23,
-  "Warrior-UI": 1.35,
-  "Auto-Brawler": 1.21,
-  "Auto-Sorcerer": 1.66,
-  "Auto-Valkyrie": 1.70,
-  "Auto-Warrior": 1.34,
-  "Auto-Berserker": 1.08
+  "ArcherUI": 1.10,
+  "LancerUI": 1.23,
+  "WarriorUI": 1.35,
+  "AutoBrawler": 1.21,
+  "AutoSorcerer": 1.66,
+  "AutoValkyrie": 1.70,
+  "AutoWarrior": 1.34,
+  "AutoBerserker": 1.08
 }
